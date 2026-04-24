@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @Shruti-Mishra-5<br>👀 I’m interested in data analytics, data science and machine learning<br>🌱 I’m currently learning geospatial analytics<br> 💞️ I’m looking to collaborate on all the projects that leads to creative problem solving<br>📫 Reach me through my email id or linkedin dm<br>
+# 💫 Hey Everyone
+👋 Hi, I’m Shruti Mishra <br>👀 I’m interested in data analytics, data science and machine learning<br>🌱 I’m currently learning geospatial analytics<br> 💞️ I’m looking to collaborate on all the projects that leads to creative problem solving<br>📫 Reach me through my email id or linkedin dm<br>
 
 
 ## 🌐 Socials:
